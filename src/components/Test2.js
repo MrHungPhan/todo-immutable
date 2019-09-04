@@ -1,3 +1,4 @@
+// test git commit thu 2 tro len voi --amend
 import React from 'react';
 
 const Test2 = () => {
